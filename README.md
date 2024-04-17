@@ -1,4 +1,5 @@
-### Hi there 👋
+## Harman Kaur 👋
+
 
 <!--
 **harman-bhullar/harman-bhullar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
